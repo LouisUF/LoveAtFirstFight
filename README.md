@@ -1,0 +1,1 @@
+A game created for the Melon Jam, a 3-day game jam. The player plays as Finley the Bard, who must collect words in order to fill in a love poem to charm the Dragon Queen all while dodging her onslaught of attacks!
